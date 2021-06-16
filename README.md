@@ -18,6 +18,6 @@ Spread Dev Inc is building a component library for use in future products. We ha
 Hello y'all! Thanks for checking out this component challenge. Feel free to fork this repo and let those creative juices flow!
 
 If you have recommendations for improvements or refinements on this readme, have ideas for other challenges, or have a really good dad joke, feel free to hit up the co-hosts of the community!
-[Matthew Vaccaro](https://www.linkedin.com/in/matthew-vaccaro-409158119/)
-[Christopher Cruz](https://www.linkedin.com/in/christopherc1331/)
-[Benjamin Wilson](https://www.linkedin.com/in/benjamin-t-wilson/)
+- [Matthew Vaccaro](https://www.linkedin.com/in/matthew-vaccaro-409158119/)
+- [Christopher Cruz](https://www.linkedin.com/in/christopherc1331/)
+- [Benjamin Wilson](https://www.linkedin.com/in/benjamin-t-wilson/)
